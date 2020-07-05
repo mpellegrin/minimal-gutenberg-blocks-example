@@ -1,6 +1,6 @@
 # Minimal Gutenberg Blocks Example
 
-This plugin is based on The Gutenberg Examples, please refer to:
+This plugin is based on the Gutenberg Examples, please refer to:
  * [Gutenberg](https://github.com/WordPress/gutenberg)
  * [Gutenberg Examples](https://github.com/WordPress/gutenberg-examples)
  * [Gutenberg developer documentation](https://wordpress.org/gutenberg/handbook/)
@@ -39,8 +39,8 @@ npm run build
 The task will create a `build/` directory.
 
 ### Hacking
- * Add a .js file to the folder `source/` (see examples).
+ * Add a `.js` file to the folder `source/` (see examples).
  * Compile the plugin with the NPM task (see above).
  * Send the plugin to the `wp-content/plugins` directory of your WordPress installation.
- * Activate the plugin, and add the blocks to as post. Search the blocks with the keyword `example`.
+ * Activate the plugin, and add the blocks to a post. Search the blocks with the keyword `example`.
 
